@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# fetdd
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06e3f743-c65f-4817-ad03-c438fee7dcf3/deploy-status)](https://app.netlify.com/sites/fetdd/deploys)
+
+Production: <https://fetdd.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not
+`npm` for installing them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
